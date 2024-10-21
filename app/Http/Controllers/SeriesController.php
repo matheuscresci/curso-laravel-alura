@@ -8,7 +8,7 @@ class SeriesController extends Controller
 {
     public function index(Request $request) {
         $series = [
-            'Punisher',
+            'Punisheeeeer',
             'Lost',
             'Grey\'s Anatomy'
         ];
